@@ -14,5 +14,6 @@ I the art and world building I try to use some horror element, like bloodborne
 [week1 break down](https://github.com/user-attachments/assets/d49d735b-6eb2-4d81-9507-2f526ba0bd29)
 
 
-## W2
-
+## W3
+### Activity 1
+break-down chart
