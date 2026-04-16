@@ -17,3 +17,4 @@ I the art and world building I try to use some horror element, like bloodborne
 ## W3
 ### Activity 1
 break-down chart
+<img width="1527" height="1080" alt="65BC933F-13D9-4933-AECB-73CA1ECD9D63" src="https://github.com/user-attachments/assets/b9381093-ebe3-4b99-b807-7355d26edf65" />
