@@ -26,6 +26,19 @@ break-down chart
 3. I think yes in my game there are two state first is in the game which have to use the Cursor lock and when player talking to NPC to update weapon. I need cursor to select
 4. yes, Like I said in the pre- learning quiz I try to use state machine in change the state of enmey.
 
+## W4
+### Activity 1
+Playtest Team memeber: Gong Chen, Alvin Wang, Ziyue Yang
+
+Right I complete the shooting feature in my playtest build. Therefore in this play test, I want to test if the shooting feature is smooth for player
+
+The result I think I need to add the phyiscal material to the ground and bullet to make bullet can be bound. And I think playtester every enjoy and make fun from my demo, this demo is so goofy but I want to make my game seriously.
+
+### Activity 2
+
+1. yes, in this project logic I create a chain of dialogue. which means writer can write new dialogue in the Scriptobject. and DialogueAdvance4W script and Node can can dislay next ScriptObject in the canvas
+2. if the relpy is to large, in the visual scripting, creater have to build many node and make line for each not which means the coding will become difficulty
+3. this button can let the C# to create a new node for the script object and after click the button this new node will add to the Visual script graph
 
 
 

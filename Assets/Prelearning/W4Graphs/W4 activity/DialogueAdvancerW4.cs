@@ -19,6 +19,8 @@ namespace W4Activity
 
             _Instance = this;
         }
+        [SerializeField] private DialogueNodeW4 nextLine;
+
 
         // Button hooks up to this method
         // do not edit this method
