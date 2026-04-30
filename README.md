@@ -40,5 +40,26 @@ The result I think I need to add the phyiscal material to the ground and bullet 
 2. if the relpy is to large, in the visual scripting, creater have to build many node and make line for each not which means the coding will become difficulty
 3. this button can let the C# to create a new node for the script object and after click the button this new node will add to the Visual script graph
 
+## W5
+### Activity 1
+I will choice to use animator in my vertical slice
 
+Big Step 1:
 
+I will input all player and enemy animation and put them into animation Control. And change different animation by use trigger and bool.
+
+Step 1: put sprite sheet into Asset File and build new file called Animation
+Step 2: cut sprite sheet into each frame and add animator componet into player and enemy gameObject
+Step 3: build Aninmation Control for enemy and player and set animation variable. 
+Step 4: rotate the animation when the vector of transfrom change 
+
+Big Step 2:
+
+I will try to make the animation more smooth. including, don't let animation before the animation finish play even the state change. and let the attack check box enable when the play some frame play
+
+Step 1: write the animation event script let animator play in a certain frame to sent event 
+Step 2: write code in different scripts to respond the event
+Step 0: watch video to how to write animation event 
+
+### Activity 2
+right now I finish the most part of Big Step 1 but the sprite sheet is the one I used before which is not match the whole Aesthetics in my game so I will try to update new sprite sheet in future. Also right now I work one rotate the sprite when player and enemy change direction.
