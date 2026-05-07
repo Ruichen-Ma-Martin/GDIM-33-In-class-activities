@@ -63,3 +63,25 @@ Step 0: watch video to how to write animation event
 
 ### Activity 2
 right now I finish the most part of Big Step 1 but the sprite sheet is the one I used before which is not match the whole Aesthetics in my game so I will try to update new sprite sheet in future. Also right now I work one rotate the sprite when player and enemy change direction.
+
+
+## W6
+### Activity 1
+right now I update more enemy and they can change the state from wander, attack and follow. and more attack way
+
+[playtest itch link same as milestone ](https://ruichenmamartin.itch.io/gdim-33-milestone-2)
+
+I want player can understand the enemy state change and the rule of enemy move.
+
+but I think the reason the map is too small and there no UI in the game so player understand enemy and the enemy Hp is also too small
+
+
+### Activity 2
+
+1. the RGB is float variable if mutiply third float the result will become small
+
+2. Alpha is also a float and smaller than I
+
+3. base on th shiba UV value
+
+4. in the photograph and aftereffect can use RGB to change the color
