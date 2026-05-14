@@ -85,3 +85,20 @@ but I think the reason the map is too small and there no UI in the game so playe
 3. base on th shiba UV value
 
 4. in the photograph and aftereffect can use RGB to change the color
+
+## W7
+### Activity 
+1. coming from Geometry category, maybe come from the mesh date from the object
+
+2. because they’re interpolated across the adjacent vertices that make up the polygon that this fragment is a part of.
+
+3.  because they didn't not have 2d texture and alpha in the fragment. it only grab the color from the mesh date of this object. it wil make the object become colorful when the texture don't work. 
+
+4. the normal of the shiba object is opposite
+
+5. maybe it can debug UV of object
+
+6. the vector on the shiba model is opposite to the vector of light which make the dot production result become negative
+
+7. they use R G to cauluate and time with therefore the material will change like aninemate 
+
