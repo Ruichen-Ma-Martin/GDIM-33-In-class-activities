@@ -102,3 +102,28 @@ but I think the reason the map is too small and there no UI in the game so playe
 
 7. they use R G to cauluate and time with therefore the material will change like aninemate 
 
+## W8 
+### Activity 1
+(itch link for playtest)[https://ruichenmamartin.itch.io/milestone-3]
+
+add a NPC who can help player update it weapon
+
+for this playtest I want to test the bug of animation of enemy which is I build in milestone 2. I have a playtest before the milestone 2 but I want make more test to make sure there are no bug. Also I want to make sure the player can understand who is npc and what npc can do. even I do not say anything.
+
+Playtest result. First my animation don't have bug but I think I can make the hit box become invisiable. But some player do not what NPC can do before I tell them.one more thing is that the weapon level don't have limit.
+
+### Activity 2
+
+
+
+In Step (4), why does changing the Layer the Shiba is on enable and disable the outline effect? If you’re not sure, look back on Step (4).
+
+2A:shiba outline shader
+
+1. create two render object feature which give value for the Stencil buffer and add material which is color of the outline and another let the shiba object can pass the outline color.
+
+2. the DrawOpaqueObject and the StencilWeitePass both draw shiba which is because I create a new Stencil buffer let it pass the outline buffer
+
+3. because one is work on the light side one is work one dark side is it mutiply it will not work but it add it will work
+
+4. I think it is because the outline effect will work when the shiba one the outline layer during setting the rending object feature. if change layer it will not work.
