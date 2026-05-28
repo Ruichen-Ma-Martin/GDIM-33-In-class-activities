@@ -137,3 +137,9 @@ In Step (4), why does changing the Layer the Shiba is on enable and disable the 
 
 
 We choose the game valorant. First example is when player get shocked from others' skill. We think it is post-process effect because it will be ativated after the render the game. this effect will change the color of the screen which will deactivation after 2 or 3 second based on different skill. The second one, player get flash which is same as get shocked. The Third one, is be found by skill it is a render effect on the enemy player screen. 
+
+### Activity 2 
+
+<img width="2525" height="1640" alt="image" src="https://github.com/user-attachments/assets/baf70a4a-0982-46a7-bbb8-db5a2d9414b4" />
+
+Today I try to use tilling and offset node to make a texture move in order to make a fire ball effect, but I find I cannot mave the texture when I change the offset value. Finally I find I need to change the 2D Texture Asset the Wrap mode to repeat
