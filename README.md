@@ -127,3 +127,10 @@ In Step (4), why does changing the Layer the Shiba is on enable and disable the 
 3. because one is work on the light side one is work one dark side is it mutiply it will not work but it add it will work
 
 4. I think it is because the outline effect will work when the shiba one the outline layer during setting the rending object feature. if change layer it will not work.
+
+
+## W9
+
+### Activity 1
+
+We choose the game valorant. First example is when player get shocked from others' skill. We think it is post-process effect because it will be ativated after the render the game. this effect will change the color of the screen which will deactivation after 2 or 3 second based on different skill. The second one, player get flash which is same as get shocked. The Third one, is be found by skill it is a render effect on the enemy player screen. 
