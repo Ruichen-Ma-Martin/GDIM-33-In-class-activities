@@ -133,4 +133,7 @@ In Step (4), why does changing the Layer the Shiba is on enable and disable the 
 
 ### Activity 1
 
+<img width="514" height="847" alt="截屏2026-05-27 17 39 24" src="https://github.com/user-attachments/assets/5a9be98f-d446-4432-a3bc-0c571362242e" />
+
+
 We choose the game valorant. First example is when player get shocked from others' skill. We think it is post-process effect because it will be ativated after the render the game. this effect will change the color of the screen which will deactivation after 2 or 3 second based on different skill. The second one, player get flash which is same as get shocked. The Third one, is be found by skill it is a render effect on the enemy player screen. 
