@@ -143,3 +143,16 @@ We choose the game valorant. First example is when player get shocked from other
 <img width="2525" height="1640" alt="image" src="https://github.com/user-attachments/assets/baf70a4a-0982-46a7-bbb8-db5a2d9414b4" />
 
 Today I try to use tilling and offset node to make a texture move in order to make a fire ball effect, but I find I cannot mave the texture when I change the offset value. Finally I find I need to change the 2D Texture Asset the Wrap mode to repeat
+
+## W10
+
+### Activity 1
+
+After the milestone 3, First I debug some part in the game. I also write change scene system because I want to make my vertical slice have different level. 
+
+For today play test I want to check is the game have bug after change scene. 
+
+### Activity 2
+
+I think I rarely use break down, because I usaully think my code in my mind, I don't like to write them down. but in my mind, I will break some mechanism into different step and how many method I need to acheive this mechaism. 
+
